@@ -4,6 +4,15 @@ Este proyecto consiste en el uso del protocolo XMPP, generando una conexion clie
 # Tabla de contenidos
 
 - [Información general](#Información-general)
+- [Tecnologias usadas](#Tecnologias-usadas)
+- [Caracteristicas](#Caracteristicas)
+- [Capturas de pantalla](#Capturas-de-pantalla)
+- [Setup](#Setup)
+- [Uso](#Uso)
+- [Estado del proyecto](#Estado-del-proyecto)
+- [Espacio de mejora](#Espacio-de-mejora)
+- [Agradecimientos](#Agradecimientos)
+- [Contacto](#Contacto)
 
 # Información general 
 
