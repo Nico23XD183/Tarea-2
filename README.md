@@ -22,13 +22,18 @@ Para la realizacion de este trabajo utilizaremos dos maquinas virtuales, una cum
 
 # Tecnologias usadas
 
+-Ubuntu
+
 -Ejabberd
+
 -Profanity
+
 -Wireshark
 
 # Caracteristicas
 
 -Envió de mensajería instantanea
+
 -Local
 
 # Capturas de pantalla
@@ -98,10 +103,13 @@ Las areas que podrian mejorar podrian ser la ampliacion de la escala del proyect
 # Agradecimientos
 
 Agradecimientos a Jonas Peñailillo por la presentacion de la idea del proyecto.
+
 Agradeciemtos a Maria Martinez por la revision del proyecto.
+
 Muchas gracias por apoyo moral hacia Infired y Dynasty.
 
 # Contacto
 
 Creado por Nicolas Guajardo
+
 Correo:nicolas.guajardo1@mail.udp.cl
