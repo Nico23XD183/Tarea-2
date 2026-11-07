@@ -1,1 +1,12 @@
+(servidor)
 
+sudo systemctl enable --now ejabberd
+
+(cliente)
+
+profanity
+/connect nombredeusuario@dominio
+/msg nombreusuario@dominio mensaje.
+
+Ejemplo: /connect perejil@xmpp.lab
+         /msg cilantro@xmpp.lab Mensaje de prueba
