@@ -1,1 +1,7 @@
-
+sudo apt update
+sudo apt upgrade 
+sudo apt install ejabberd
+sudo apt install profanity
+sudo apt install wireshark 
+sudo apt install net-tools
+sudo apt install netcat-openbsd
