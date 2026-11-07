@@ -38,7 +38,7 @@ Para la realizacion de este trabajo utilizaremos dos maquinas virtuales, una cum
 
 # Capturas de pantalla
 
-![Envio de mensajes de prueba](url-de-la-imagen)
+![Envio de mensajes de prueba](https://github.com/Nico23XD183/Tarea-2/blob/7a6312373a3429a6e0568d3fa8212ea4e5da67fb/Capturas%20de%20pantalla/t16.png)
 
 # Setup
 
