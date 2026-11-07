@@ -38,6 +38,8 @@ Para la realizacion de este trabajo utilizaremos dos maquinas virtuales, una cum
 
 # Capturas de pantalla
 
+![Envio de mensajes de prueba](url-de-la-imagen)
+
 # Setup
 
 Las maquinas virtuales utilizadas para este informe fueron creadas para este trabajo sin uso previo, por lo que para realizarlo, se instalaron utilidades aparte de las estrictamente necesarias que serian ejabberd, profanity y wireshark, los pasos de instalación fueron los siguientes:
