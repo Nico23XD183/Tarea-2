@@ -1,1 +1,21 @@
+Con todo correctamente instalado, para poder realizar el envió de mensajes en tiempo real, fue necesario conectar ambas maquinas virtuales a la misma red, esto se hizo de la siguiente manera:
 
+En oracle virtualbox nos dirigimos a archivos, luego herramientas y le damos a administrador de red, dentro de ahí seleccionamos la opción crear una red host-only a la cual le desactivamos el servidor dhcp para poder asignar manualmente y que se mantengan fijas las IPs de las maquinas virtuales.
+
+Asociamos ambos VM a la red creada, para esto seleccionamos la VM, vamos a Configuración y le damos a red, utilizaremos el adaptador numero 1,  por lo que lo seleccionamos conectado a: y buscamos adaptador solo-anfitrión. 
+
+Esto por si solo no es suficiente para que funcione, por lo que tenemos que asignarle a las maquinas sus IPs estáticas.
+
+Para asignarles su IP nos dirigimos a configuración, red, en la conexión cableada le damos al engranaje, en la sección de IPv4 asignamos la IP y mascara, para el caso de este informe, la IP servidor corresponde a 192.168.56.10 mascara /24, mientras la IP cliente es 192.168.56.20 mascara /24.
+
+Para confirmar que todo este correctamente hecho, realizamos un ping desde ambas VM con: ping -c 4 192.168.56.10 desde cliente y ping -c 4 192.168.56.20 desde servidor.
+
+sudo systemctl enable --now ejabberd
+sudo systemctl status ejabberd
+sudo nano /etc/ejabberd/ejabberd.yml 
+sudo ss -lntp | grep 5222
+sudo ufw allow 5222/tcp.
+sudo ejabberdctl register nombre dominio clave
+sudo ejabberdctl registered_users dominio
+sudo nano /etc/hosts
+nc -vz xmpp.lab 5222
