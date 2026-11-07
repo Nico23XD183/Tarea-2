@@ -114,4 +114,4 @@ Muchas gracias por apoyo moral hacia Infired y Dynasty.
 
 Creado por Nicolas Guajardo
 
-Correo:nicolas.guajardo1@mail.udp.cl
+Correo: nicolas.guajardo1@mail.udp.cl
