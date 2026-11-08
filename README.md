@@ -48,7 +48,7 @@ Para la recolección de paquetes y por ende poder realizar el análisis del prot
 
 ![Envio de mensajes de prueba](https://github.com/Nico23XD183/Tarea-2/blob/7a6312373a3429a6e0568d3fa8212ea4e5da67fb/Capturas%20de%20pantalla/t16.png)
 
-![Envio de mensajes de prueba](https://github.com/Nico23XD183/Tarea-2/blob/7a6312373a3429a6e0568d3fa8212ea4e5da67fb/Capturas%20de%20pantalla/t16.png)
+Todas las capturas [aquí ](https://github.com/Nico23XD183/Tarea-2/tree/ed923414d259e4798fc10c1d8a86baeb11d54a98/Capturas%20de%20pantalla)
 
 # Setup
 
