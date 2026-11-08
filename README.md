@@ -108,13 +108,15 @@ Iniciamos ejabberd en la VM servidor utilizando sudo systemctl enable --now ejab
 
 Dentro de profanity nos conectamos a uno de los dos usuarios creador previamente, esto lo haremos usando /connect nombredeusuario@dominio, por ejemplo con perejil quedaría lo siguiente: /connect perejil@xmpp.lab, al ingresar la linea nos pedirá la contraseña, al introducirla, profanity mostrara que la conexión se encuentra activa, con ello ahora podremos enviar mensajes a los usuarios registrados, bien a nosotros mismos (perejil) o a cilantro, para enviar mensajes utilizamos /msg nombreusuario@dominio mensaje.
 
+Para revisar exclusivamente la lista de códigos entrar [aquí ](https://github.com/Nico23XD183/Tarea-2/tree/3b0c9d491d358b6697e62397263273645475cd4c/Codigos)
+
 # Estado del proyecto
 
-Actualmente se encuentra en progreso, se ha logrado establecer la conexion, envios de mensajes y analisis de estos mensajes, mas este proyecto pretende en un futuro experimentar con la modificación de tráfico y el análisis de métricas.
+Actualmente se encuentra en progreso, pues se ha logrado establecer la configuración y conexión del servidor y cliente, realizar el envió de mensajes y análisis de estos mensajes comparándolos con los esperados, mas este proyecto pretende en un futuro experimentar con la modificación de tráfico y el análisis de métricas, de forma que este aun si teóricamente es funcional, todavía se encuentra en desarrollo.
 
 # Espacio de mejora
 
-Las areas que podrian mejorar podrian ser la ampliacion de la escala del proyecto, probando con una red mas amplia de usuarios y separados entre si. Tambien se puede expandir el proyecto con la modificación de tráfico y el análisis de métricas, la cual es el siguiente objetivo del proyecto.
+Las áreas que podrían mejorar podrían ser la ampliación de la escala del proyecto, probando con una red mas amplia de usuarios y separados entre si, de esta forma el proyecto aumentaría en alcance, aunque la dificultad de implementación subiría considerablemente. También se puede expandir el proyecto con la modificación de tráfico y el análisis de métricas, la cual es el siguiente objetivo del proyecto.
 
 # Agradecimientos
 
@@ -126,6 +128,4 @@ Muchas gracias por apoyo moral hacia Infired y Dynasty.
 
 # Contacto
 
-Creado por Nicolas Guajardo
-
-Correo: nicolas.guajardo1@mail.udp.cl
+Creado por Nicolas Guajardo - Correo: nicolas.guajardo1@mail.udp.cl
