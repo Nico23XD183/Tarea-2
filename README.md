@@ -98,7 +98,7 @@ Podemos comprobar el puerto del servidor utilizando nc -vz xmpp.lab 5222, con es
 
 Con estos pasos realizados exitosamente ya es posible realizar el envió de mensajes utilizando profanity, lo cual sera revisado en la sección: uso de los software.
 
-Para revisar exclusivamente la lista de códigos entrar [aquí ](https://github.com/Nico23XD183/Tarea-2/tree/ed923414d259e4798fc10c1d8a86baeb11d54a98/Capturas%20de%20pantalla)
+Para revisar exclusivamente la lista de códigos entrar [aquí ](https://github.com/Nico23XD183/Tarea-2/tree/3b0c9d491d358b6697e62397263273645475cd4c/Codigos)
 
 # Uso
 
