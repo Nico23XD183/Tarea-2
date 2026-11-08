@@ -46,9 +46,11 @@ Para la recolección de paquetes y por ende poder realizar el análisis del prot
 
 # Capturas de pantalla
 
+Ejemplo de envió de mensajes:
+
 ![Envio de mensajes de prueba](https://github.com/Nico23XD183/Tarea-2/blob/7a6312373a3429a6e0568d3fa8212ea4e5da67fb/Capturas%20de%20pantalla/t16.png)
 
-Todas las capturas [aquí ](https://github.com/Nico23XD183/Tarea-2/tree/ed923414d259e4798fc10c1d8a86baeb11d54a98/Capturas%20de%20pantalla)
+Todas las capturas desde t1 a t16 [aquí ](https://github.com/Nico23XD183/Tarea-2/tree/ed923414d259e4798fc10c1d8a86baeb11d54a98/Capturas%20de%20pantalla)
 
 # Setup
 
@@ -95,6 +97,8 @@ Primero partimos configurando la resolución de dominio, esto los haremos accedi
 Podemos comprobar el puerto del servidor utilizando nc -vz xmpp.lab 5222, con esta linea intentaremos hacer conexión con el puerto del servidor, si todo esta funcionando correctamente, la conexión sera exitosa.
 
 Con estos pasos realizados exitosamente ya es posible realizar el envió de mensajes utilizando profanity, lo cual sera revisado en la sección: uso de los software.
+
+Para revisar exclusivamente la lista de códigos entrar [aquí ](https://github.com/Nico23XD183/Tarea-2/tree/ed923414d259e4798fc10c1d8a86baeb11d54a98/Capturas%20de%20pantalla)
 
 # Uso
 
