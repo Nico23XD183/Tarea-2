@@ -1,5 +1,5 @@
 # Tarea-2: Análisis del protocolo XMPP
-Este proyecto consiste en el uso del protocolo XMPP, generando una conexión cliente-servidor local para analizar el trafico que se genera, comparando el trafico resultante en comparación al teórico.
+Este proyecto consiste en el uso del protocolo XMPP, el cual es un protocolo orientado a la mensajería instantánea, para hacerlo se genero una conexión cliente-servidor local para analizar el trafico que se genera, comparando el trafico resultante en comparación al teórico, analizando sus diferencias y el motivo de estas.
 
 # Tabla de contenidos
 
@@ -18,11 +18,15 @@ Este proyecto consiste en el uso del protocolo XMPP, generando una conexión cli
 
 El proyecto consiste en utilizar el protocolo xmpp, el cual es un protocolo orientado a la mensajeria en tiempo real, para esto utilizaremos un cliente y un servidor, para hacer esto se usara ejabberd como el servidor, mientras que profanity como el cliente. 
 
-Para la realizacion de este trabajo utilizaremos dos maquinas virtuales, una cumpliendo de servidor y cliente y otra de exclusivamente cliente, el proposito de este proyecto es analizar y comprender el funcionamiento del protocolo.
+Para la realización de este trabajo utilizaremos dos maquinas virtuales con ubuntu como sistema operativo, una maquina virtual cumplirá de servidor y cliente y otra de exclusivamente cliente, el propósito de este proyecto es analizar y comprender el funcionamiento del protocolo.
+
+Para la recolección de paquetes y por ende poder realizar el análisis del protocolo, se utilizara wireshark, con este programa se podra comparar el funcionamiento teorico con el practico.
 
 # Tecnologias usadas
 
--Ubuntu
+-Ubuntu 
+
+-Oracle virtualbox
 
 -Ejabberd
 
@@ -36,7 +40,13 @@ Para la realizacion de este trabajo utilizaremos dos maquinas virtuales, una cum
 
 -Local
 
+-Mensajes guardados en el servidor
+
+-Seguridad con tls
+
 # Capturas de pantalla
+
+![Envio de mensajes de prueba](https://github.com/Nico23XD183/Tarea-2/blob/7a6312373a3429a6e0568d3fa8212ea4e5da67fb/Capturas%20de%20pantalla/t16.png)
 
 ![Envio de mensajes de prueba](https://github.com/Nico23XD183/Tarea-2/blob/7a6312373a3429a6e0568d3fa8212ea4e5da67fb/Capturas%20de%20pantalla/t16.png)
 
